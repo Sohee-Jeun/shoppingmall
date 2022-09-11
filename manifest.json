@@ -3,7 +3,7 @@
   "lang": "en",
   "name": "Online Shopping",
   "short_name": "Online Shopping",
-  "scope": "/",
+  "scope": "https://sohee-jeun.github.io/shoppingmall/",
   "display": "standalone",
   "start_url": "./index.html",
   "background_color": "transparent",
