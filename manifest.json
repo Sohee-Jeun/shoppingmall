@@ -5,7 +5,7 @@
   "short_name": "Online Shopping",
   "scope": "/",
   "display": "standalone",
-  "start_url": "https://sohee-jeun.github.io/shoppingmall/",
+  "start_url": "./index.html",
   "background_color": "transparent",
   "theme_color": "transparent",
   "orientation": "any",
