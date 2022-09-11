@@ -44,6 +44,7 @@ Features that can be implemented in a PWA
 - Add icon to home screen You can add an icon to the home screen of your smartphone.
 - No installation required, like native apps PWAs are not apps, so users don't need to download and install them from the store. However, it can provide an app-like look and feel.
 - Push Notifications You can send push notifications like normal apps.
+
 https://www.pwabuilder.com/
 
 
